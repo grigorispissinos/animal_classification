@@ -1,2 +1,4 @@
 puppy
 gecko
+ocelot
+sloth
